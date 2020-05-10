@@ -20,4 +20,9 @@ MNIST handwritten digit dataset contains 60,000 training and 10,000 testing 28*2
 <h2>Project Overview</h2>
 The aim of this project is to remove noise from images in a dataset and give a clear image so that further operations can be done on the dataset effectively.
 
-Autoencoders are deep learning
+<li>Autoencoders are a type of artificail neural network that are used to perform task of data encoding(representation learning).
+<li>Noisy image is fed from MNIST dataset as input.
+<li>The output is clean (denoised) image.
+ <br>
+![auto](ab.png)
+
