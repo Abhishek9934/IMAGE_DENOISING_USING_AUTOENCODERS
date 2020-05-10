@@ -23,6 +23,7 @@ The aim of this project is to remove noise from images in a dataset and give a c
 <li>Autoencoders are a type of artificail neural network that are used to perform task of data encoding(representation learning).
 <li>Noisy image is fed from MNIST dataset as input.
 <li>The output is clean (denoised) image.
- <br>
-![auto](ab.png)
+ <br><br>
+  
+![DATA](ab.png)
 
